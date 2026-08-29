@@ -1,2 +1,3 @@
 Collaboration Demo Project
 Version 1.0
+New document called Feature.txt added to this Project.
